@@ -3,6 +3,9 @@ text.mappin.addnew=現在の位置を保存
 text.mappin.goremove=削除モードに移行
 text.mappin.name=タイトル
 
+text.mappin.noclip.started=1秒後に戻ります。
+text.mappin.noclip.onlyAvailableInCreative=クリエイティブモードでのノークリップできます。
+
 text.command.kit.requiresOpTag=§cこのコマンドを使うには、"Util:Op" というタグが必要です。
 
 item.sf:map_pin=マップピン
