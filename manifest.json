@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "EasyCreatorUtils-Resource",
+		"uuid": "4785b000-73e4-4b09-b4c9-59c14c1e01b3",
+		"version": [
+			1,
+			0,
+			1
+		],
+		"description": "Contact: discord@ma27inranma",
+		"min_engine_version": [
+			1,
+			18,
+			10
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "f9484505-bb5e-48bf-a851-5e8a18e199b6",
+			"version": [
+				0,
+				0,
+				1
+			],
+			"description": "null"
+		}
+	]
+}
