@@ -12,3 +12,8 @@ text.ender_floppy.block_occupied=§cThere is a half block or transparent block b
 text.ender_floppy.output_occupied=§cThe slot for the saved disk is occupied (from top right to left +1).
 
 item.sf:map_pin=Map pin
+item.sf:ender_floppy-red=Red ender floppy
+item.sf:ender_floppy-blue=Blue ender floppy
+item.sf:ender_floppy-green=Green ender floppy
+item.sf:ender_floppy-gold=Gold ender floppy
+item.sf:ender_floppy-purple=Purple ender floppy

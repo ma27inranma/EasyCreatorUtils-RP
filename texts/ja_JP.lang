@@ -12,3 +12,9 @@ text.ender_floppy.block_occupied=§c足元に半ブロック、もしくは透�
 text.ender_floppy.output_occupied=§c保存されたディスクが出るスロットが埋まっています(右上から左に+1)。
 
 item.sf:map_pin=マップピン
+
+item.sf:ender_floppy-red=赤いエンダーフロッピー
+item.sf:ender_floppy-blue=青いエンダーフロッピー
+item.sf:ender_floppy-green=緑のエンダーフロッピー
+item.sf:ender_floppy-gold=金色のエンダーフロッピー
+item.sf:ender_floppy-purple=紫色のエンダーフロッピー
