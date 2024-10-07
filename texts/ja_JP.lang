@@ -8,4 +8,7 @@ text.mappin.noclip.onlyAvailableInCreative=クリエイティブモードでの�
 
 text.command.kit.requiresOpTag=§cこのコマンドを使うには、"Util:Op" というタグが必要です。
 
+text.ender_floppy.block_occupied=§c足元に半ブロック、もしくは透過ブロックがあります。ブロックに重なっていると保存できません。
+text.ender_floppy.output_occupied=§c保存されたディスクが出るスロットが埋まっています(右上から左に+1)。
+
 item.sf:map_pin=マップピン

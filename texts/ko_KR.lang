@@ -1,0 +1,14 @@
+text.mappin.click_to_teleport=클릭하여 이동합니다.
+text.mappin.addnew=현재 위치를 저장합니다.
+text.mappin.goremove=삭제 모드로 전환합니다.
+text.mappin.name=제목
+
+text.mappin.noclip.started=1초 후에 돌아갑니다.
+text.mappin.noclip.onlyAvailableInCreative=크리에이티브 모드에서 노클립을 사용할 수 있습니다.
+
+text.command.kit.requiresOpTag=§c이 명령어를 사용하려면 "Util:Op"라는 태그가 필요합니다.
+
+text.ender_floppy.block_occupied=§c발 아래에 반 블록 또는 투명 블록이 있습니다. 블록에 겹쳐 있으면 저장할 수 없습니다.
+text.ender_floppy.output_occupied=§c저장된 디스크가 나오는 슬롯이 차 있습니다(오른쪽 위에서 왼쪽으로 +1).
+
+item.sf:map_pin=맵 핀

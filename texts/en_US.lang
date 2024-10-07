@@ -1,0 +1,14 @@
+text.mappin.click_to_teleport=Click to teleport.
+text.mappin.addnew=Save current position
+text.mappin.goremove=Switch to remove mode
+text.mappin.name=Title
+
+text.mappin.noclip.started=Returning in 1 second.
+text.mappin.noclip.onlyAvailableInCreative=Noclip is available in creative mode.
+
+text.command.kit.requiresOpTag=§cYou need the tag "Util:Op" to use this command.
+
+text.ender_floppy.block_occupied=§cThere is a half block or transparent block beneath you. You cannot save while overlapping with a block.
+text.ender_floppy.output_occupied=§cThe slot for the saved disk is occupied (from top right to left +1).
+
+item.sf:map_pin=Map pin

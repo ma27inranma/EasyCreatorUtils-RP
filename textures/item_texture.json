@@ -3,6 +3,21 @@
     "texture_data": {
         "map_pin": {
             "textures": "textures/items/map_pin"
+        },
+        "ender_floppy-red": {
+            "textures": "textures/items/ender_floppy-red"
+        },
+        "ender_floppy-green": {
+            "textures": "textures/items/ender_floppy-green"
+        },
+        "ender_floppy-blue": {
+            "textures": "textures/items/ender_floppy-blue"
+        },
+        "ender_floppy-gold": {
+            "textures": "textures/items/ender_floppy-gold"
+        },
+        "ender_floppy-purple": {
+            "textures": "textures/items/ender_floppy-purple"
         }
     },
     "texture_name":"atlas.items"
