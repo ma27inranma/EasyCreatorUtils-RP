@@ -13,7 +13,7 @@ text.ender_floppy.output_occupied=§cThe slot for the saved disk is occupied (fr
 
 text.stop_log.mode_enabled=§cStopLog is enabled.
 text.stop_log.usage=§eRewind: <-Hotbar, Forward: Hotbar->, Exit: Look up
-text.stop_log.teleported=§eTeleported to %s§a (%s ago)
+text.stop_log.teleported=§eTeleported to %s§a (%s before)
 
 item.sf:map_pin=Map pin
 item.sf:ender_floppy-red=Red ender floppy

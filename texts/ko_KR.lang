@@ -11,7 +11,7 @@ text.command.kit.requiresOpTag=§c이 명령어를 사용하려면 "Util:Op"라�
 text.ender_floppy.block_occupied=§c발 아래에 반 블록 또는 투명 블록이 있습니다. 블록에 겹쳐 있으면 저장할 수 없습니다.
 text.ender_floppy.output_occupied=§c저장된 디스크가 나오는 슬롯이 차 있습니다(오른쪽 위에서 왼쪽으로 +1).
 
-text.stop_log.mode_enabled=§cStopLog이 활성화되었습니다.
+text.stop_log.mode_enabled=§cStopLog(이)가 활성화되었습니다.
 text.stop_log.usage=§e되감기: <-핫바, 앞으로: 핫바->, 종료: 위를 바라보기
 text.stop_log.teleported=§e%s로 텔레포트되었습니다. (%s 전)
 
