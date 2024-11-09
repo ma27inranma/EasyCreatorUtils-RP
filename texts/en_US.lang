@@ -11,6 +11,10 @@ text.command.kit.requiresOpTag=§cYou need the tag "Util:Op" to use this command
 text.ender_floppy.block_occupied=§cThere is a half block or transparent block beneath you. You cannot save while overlapping with a block.
 text.ender_floppy.output_occupied=§cThe slot for the saved disk is occupied (from top right to left +1).
 
+text.stop_log.mode_enabled=§cStopLog is enabled.
+text.stop_log.usage=§eRewind: <-Hotbar, Forward: Hotbar->, Exit: Look up
+text.stop_log.teleported=§eTeleported to %s§a (%s ago)
+
 item.sf:map_pin=Map pin
 item.sf:ender_floppy-red=Red ender floppy
 item.sf:ender_floppy-blue=Blue ender floppy
