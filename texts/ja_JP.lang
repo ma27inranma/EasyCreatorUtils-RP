@@ -13,7 +13,7 @@ text.ender_floppy.output_occupied=§c保存されたディスクが出るスロ�
 
 text.stop_log.mode_enabled=§cStopLogが有効です。
 text.stop_log.usage=§e前: ホットバーを左 進: ホットバーを右 終了: 上を向く
-text.stop_log.teleported=§e%s§aにてレポートしました (%s個前)
+text.stop_log.teleported=§e%sにテレポートしました §a(%s 個前)
 
 item.sf:map_pin=マップピン
 
