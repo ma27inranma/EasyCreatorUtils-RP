@@ -13,7 +13,7 @@ text.ender_floppy.output_occupied=§c저장된 디스크가 나오는 슬롯이 
 
 text.stop_log.mode_enabled=§cStopLog(이)가 활성화되었습니다.
 text.stop_log.usage=§e되감기: <-핫바, 앞으로: 핫바->, 종료: 위를 바라보기
-text.stop_log.teleported=§e%s로 텔레포트되었습니다. (%s 전)
+text.stop_log.teleported=§e%s로 텔레포트되었습니다. (%s번째 위치)
 
 item.sf:map_pin=맵 핀
 item.sf:ender_floppy-red=빨간색 엔더 플로피
