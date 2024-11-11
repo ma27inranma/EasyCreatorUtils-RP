@@ -1,0 +1,27 @@
+name: create mcpack
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  compress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Compress to .zip file
+        run: zip -r resource ./*
+
+      - name: Rename to .mcpack
+        run: mv resource.zip resource.mcpack
+
+      - name: Upload MCPACK artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resource.mcpack
+          path: resource.mcpack
